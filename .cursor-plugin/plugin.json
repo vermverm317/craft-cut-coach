@@ -1,10 +1,18 @@
 {
   "name": "craft-cut-coach",
-  "displayName": "Craft Cut Coach",
+  "displayName": "Craft Cut Coach (for Cricut® machines)",
   "version": "0.1.0",
   "description": "Craft Cut Coach (for Cricut® machines): free, friendly help fixing failed cuts, iron-on and heat-press problems, one step at a time. Unofficial. Not affiliated with, endorsed by, or sponsored by Cricut, Inc. Cricut® is a trademark of Cricut, Inc.",
-  "author": { "name": "Craft Cut Coach" },
+  "author": {
+    "name": "Craft Cut Coach"
+  },
   "license": "MIT",
-  "keywords": ["crafting", "cutting-machine", "vinyl", "iron-on", "troubleshooting"],
+  "keywords": [
+    "crafting",
+    "cutting-machine",
+    "vinyl",
+    "iron-on",
+    "troubleshooting"
+  ],
   "logo": "assets/logo.svg"
 }
